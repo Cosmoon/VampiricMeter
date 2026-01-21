@@ -1,0 +1,10 @@
+## Interface: 20504
+## Title: VampiricMeter
+## Notes: Shows gains from Vampiric Touch, Vampiric Embrace and Shadowfiend
+## Author: OpenAI
+## Version: 1.0.0
+## SavedVariables: VampiricMeterDB
+
+VampiricMeter.lua
+VampiricMeterUI.lua
+VampiricMeterMinimap.lua
